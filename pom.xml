@@ -4,7 +4,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<target.jdk>1.8</target.jdk>
 
-		<spring.version>4.1.17.RELEASE</spring.version>
+		<spring.version>4.3.17.RELEASE</spring.version>
 
 		<slf4j.version>1.7.12</slf4j.version>
 		<log4j.version>2.2</log4j.version>
