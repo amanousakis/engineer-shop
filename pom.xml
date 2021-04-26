@@ -29,7 +29,7 @@
 		<camel-josql.version>2.14.1</camel-josql.version>
 		<commons-lang.version>2.6</commons-lang.version>
 		<commons-pool.version>1.6</commons-pool.version>
-		<commons-io.version>2.4</commons-io.version>
+		<commons-io.version>2.7</commons-io.version>
 		<ehcache.version>2.10.0</ehcache.version>
 
 		<json-path.version>2.0.0</json-path.version>
